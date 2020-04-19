@@ -2,6 +2,7 @@
 # ioBroker.unifi
 
 [![Build Status](https://travis-ci.org/IPv64/ioBroker.unifi.svg?branch=master)](https://travis-ci.org/IPv64/ioBroker.unifi)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/14420786d0904212896568db7785d0ae)](https://www.codacy.com/manual/uwe.blais/node-unifi?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=IPv64/node-unifi&amp;utm_campaign=Badge_Grade)
 
 This ioBroker adapter allows controlling and monitoring of [UniFi devices](http://www.ubnt.com/), such as UniFi WiFi Access Points using the public UniFi Controller Web-API.
 
